@@ -12,6 +12,11 @@
 
 ---
 
+## ✨ Demo Preview
+
+<img width="1919" height="869" alt="Screenshot 2026-05-20 171404" src="https://github.com/user-attachments/assets/c71fbde7-95fb-4581-94fb-6c4c3ca30764" />
+
+
 ## 🎯 Overview
 
 A beautifully designed web platform providing **24/7 live streams** of the two most sacred sites in Islam:
