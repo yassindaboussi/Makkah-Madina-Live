@@ -171,17 +171,6 @@ To improve this project:
 
 ---
 
-## 💡 Ideas for Enhancement
-
-- [ ] Add Arabic language support
-- [ ] Prayer times integration
-- [ ] Quranic verse display
-- [ ] Multiple camera angles
-- [ ] Chat functionality
-- [ ] Donation integration
-
----
-
 ## 🙏 Purpose
 
 This project exists to:
